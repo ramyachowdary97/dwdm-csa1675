@@ -1,0 +1,4 @@
+data<-read.csv("hotels.csv")
+A<-c(data$price)
+MinMax<-(A-Minimum)/(Maximum-Minimum)
+MinMax
